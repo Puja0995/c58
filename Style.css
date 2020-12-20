@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+   
+}
+
+#welcome {
+    position: absolute;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: linear-gradient(#cf1111 0%, #000000 100%);
+}
